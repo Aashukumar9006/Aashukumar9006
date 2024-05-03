@@ -1,10 +1,11 @@
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Aashu Kumar!</h2>
+
 - 👀 I’m interested in cyber security.
 - 🌱I know C,C++,Python,CSS,Javascript and HTML.
 - 💞️  I’m trying to master all my main programming languages.
+- 📱 Devices I own are REDMI Note 12pro 5g (codename -> munch), Samsung Galaxy A51 and Galaxy A8 2016.
 - 📫 You can contact me via Telegram (http://t.me/AASHU27243) or via email (ashukumar27243@gmail.com)
 - ⚽ Future goal : To Became a Professional Developer
-
 
 ### ⚙️ &nbsp;Aashu's GitHub Analytics
 <p align="left">
